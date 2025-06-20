@@ -1,0 +1,20 @@
+# Pizza_Sales_Dashboard
+
+# Project Description
+A dynamic Excel-based dashboard that visualizes pizza sales data, built as part of a BI assignment. It helps in understanding sales performance across various metrics like revenue, best sellers, order trends, and more.
+
+# Key Features
+Interactive Excel Dashboard using Pivot Tables and Charts
+Key KPIs: Total Revenue, Total Orders, Average Order Value
+Time Series Trend Analysis
+Best and Worst Performing Pizzas
+Category-wise and Size-wise Breakdown
+Data Cleaning and Formatting
+
+# Skills & Tools Used
+Microsoft Excel
+Pivot Tables
+Pivot Charts
+Slicers
+Data Cleaning
+Dashboard Design
